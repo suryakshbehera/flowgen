@@ -12,7 +12,7 @@ const Footer: React.FC = () => {
               <div className="bg-emerald-500 p-2 rounded-xl">
                 <MessageSquareCode className="w-6 h-6 text-white" />
               </div>
-              <span className="text-xl font-bold tracking-tight text-white">Dialogic<span className="text-emerald-500">.</span></span>
+              <span className="text-xl font-bold tracking-tight text-white">Flowgen<span className="text-emerald-500">.</span></span>
             </div>
             <p className="text-slate-500 text-sm leading-relaxed mb-8">
               Premium WhatsApp automation agency specialized in hyper-scaling operations for coaching institutes and D2C brands.
@@ -20,7 +20,7 @@ const Footer: React.FC = () => {
             <div className="space-y-3">
               <div className="flex items-center gap-3 text-slate-400 text-sm">
                 <User className="w-4 h-4 text-emerald-500" />
-                <span>Founded by Dialogic Ops Team</span>
+                <span>Founded by Flowgen Ops Team</span>
               </div>
               <div className="flex items-center gap-3 text-slate-400 text-sm">
                 <MapPin className="w-4 h-4 text-emerald-500" />
@@ -66,7 +66,7 @@ const Footer: React.FC = () => {
         </div>
 
         <div className="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-6">
-          <p className="text-slate-500 text-xs">© 2024 Dialogic. All rights reserved.</p>
+          <p className="text-slate-500 text-xs">© 2024 Flowgen. All rights reserved.</p>
         </div>
       </div>
     </footer>

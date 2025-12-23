@@ -25,7 +25,7 @@ const Navbar: React.FC<NavbarProps> = ({ setView, currentView }) => {
           <div className="bg-emerald-500 p-2 rounded-xl shrink-0">
             <MessageSquareCode className="w-5 h-5 sm:w-6 sm:h-6 text-white" />
           </div>
-          <span className="text-lg sm:text-xl font-bold tracking-tight text-white">Dialogic<span className="text-emerald-500">.</span></span>
+          <span className="text-lg sm:text-xl font-bold tracking-tight text-white">Flowgen<span className="text-emerald-500">.</span></span>
         </div>
         
         {/* Desktop Links */}

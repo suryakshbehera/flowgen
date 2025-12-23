@@ -63,7 +63,7 @@ const App: React.FC = () => {
           <div className="max-w-4xl mx-auto px-6 text-center">
             <h2 className="text-4xl md:text-6xl font-extrabold mb-8">Want to Stop Missing <span className="text-emerald-400">WhatsApp Enquiries</span>?</h2>
             <p className="text-xl text-slate-400 mb-10">
-              Book a free automation audit and see how Dialogic can optimize your inquiry handling.
+              Book a free automation audit and see how Flowgen can optimize your inquiry handling.
             </p>
             <button className="bg-emerald-500 hover:bg-emerald-600 text-white px-10 py-5 rounded-full font-bold text-lg flex items-center gap-3 mx-auto transition-all shadow-xl shadow-emerald-500/20">
               Book Free WhatsApp Audit
