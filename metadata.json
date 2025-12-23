@@ -1,0 +1,8 @@
+{
+  "name": "Dialogic - WhatsApp Automation Agency",
+  "description": "Premium WhatsApp automation services for coaching institutes and D2C brands, featuring intelligent lead management and operational workflows.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
